@@ -1,4 +1,5 @@
 E-Commerce App with React, Redux, Tailwind CSS, Tailwind Material, React Hook Form, and React Toastify
+
 This is a simple yet powerful E-Commerce web application built using Create React App, Redux for state management, Tailwind CSS and Tailwind Material for styling, React Hook Form for form handling, and React Toastify for notifications.
 
 Features
@@ -9,6 +10,7 @@ Remove products from the shopping cart
 View and update the shopping cart
 Checkout and place orders
 Responsive design for mobile and desktop
+
 Technologies Used
 React: A JavaScript library for building user interfaces.
 Redux: A state management library for JavaScript applications.
@@ -22,7 +24,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/ecomm-app.git
+git clone https://github.com/Pratik1031/E-comm-redux
 Change into the project directory:
 
 bash
